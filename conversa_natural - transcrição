@@ -1,0 +1,487 @@
+{
+  "language": "pt",
+  "words": [
+    {
+      "start": 0,
+      "end": 0.3,
+      "text": "Nessa"
+    },
+    {
+      "start": 0.3,
+      "end": 0.62,
+      "text": "primeira"
+    },
+    {
+      "start": 0.62,
+      "end": 0.94,
+      "text": "etapa,"
+    },
+    {
+      "start": 1.04,
+      "end": 1.1,
+      "text": "a"
+    },
+    {
+      "start": 1.1,
+      "end": 1.2,
+      "text": "gente"
+    },
+    {
+      "start": 1.2,
+      "end": 1.52,
+      "text": "manda"
+    },
+    {
+      "start": 1.52,
+      "end": 1.72,
+      "text": "para"
+    },
+    {
+      "start": 1.72,
+      "end": 1.8,
+      "text": "o"
+    },
+    {
+      "start": 1.8,
+      "end": 2.18,
+      "text": "produtor,"
+    },
+    {
+      "start": 2.76,
+      "end": 3.16,
+      "text": "o"
+    },
+    {
+      "start": 3.16,
+      "end": 3.16,
+      "text": "produtor"
+    },
+    {
+      "start": 3.16,
+      "end": 3.38,
+      "text": "vai"
+    },
+    {
+      "start": 3.38,
+      "end": 3.86,
+      "text": "processar"
+    },
+    {
+      "start": 3.86,
+      "end": 4,
+      "text": "e"
+    },
+    {
+      "start": 4,
+      "end": 4.52,
+      "text": "responder."
+    },
+    {
+      "start": 4.8,
+      "end": 5.04,
+      "text": "Essa"
+    },
+    {
+      "start": 5.04,
+      "end": 5.6,
+      "text": "resposta"
+    },
+    {
+      "start": 5.6,
+      "end": 5.78,
+      "text": "a"
+    },
+    {
+      "start": 5.78,
+      "end": 5.86,
+      "text": "gente"
+    },
+    {
+      "start": 5.86,
+      "end": 6.14,
+      "text": "vai"
+    },
+    {
+      "start": 6.14,
+      "end": 6.7,
+      "text": "converter"
+    },
+    {
+      "start": 6.7,
+      "end": 6.94,
+      "text": "para"
+    },
+    {
+      "start": 6.94,
+      "end": 7.32,
+      "text": "áudio"
+    },
+    {
+      "start": 7.32,
+      "end": 7.5,
+      "text": "para"
+    },
+    {
+      "start": 7.5,
+      "end": 7.9,
+      "text": "poder"
+    },
+    {
+      "start": 7.9,
+      "end": 8.98,
+      "text": "ser"
+    },
+    {
+      "start": 8.98,
+      "end": 9.54,
+      "text": "reproduzida"
+    },
+    {
+      "start": 9.54,
+      "end": 9.7,
+      "text": "no"
+    },
+    {
+      "start": 9.7,
+      "end": 9.96,
+      "text": "front"
+    },
+    {
+      "start": 9.96,
+      "end": 10.16,
+      "text": "-end."
+    },
+    {
+      "start": 10.68,
+      "end": 11.24,
+      "text": "Então,"
+    },
+    {
+      "start": 11.72,
+      "end": 12.18,
+      "text": "essa"
+    },
+    {
+      "start": 12.18,
+      "end": 12.48,
+      "text": "primeira"
+    },
+    {
+      "start": 12.48,
+      "end": 12.76,
+      "text": "parte"
+    },
+    {
+      "start": 12.76,
+      "end": 12.88,
+      "text": "que"
+    },
+    {
+      "start": 12.88,
+      "end": 12.98,
+      "text": "a"
+    },
+    {
+      "start": 12.98,
+      "end": 12.98,
+      "text": "gente"
+    },
+    {
+      "start": 12.98,
+      "end": 13.08,
+      "text": "está"
+    },
+    {
+      "start": 13.08,
+      "end": 13.52,
+      "text": "fazendo,"
+    },
+    {
+      "start": 14.16,
+      "end": 14.3,
+      "text": "a"
+    },
+    {
+      "start": 14.3,
+      "end": 14.9,
+      "text": "conversão"
+    },
+    {
+      "start": 14.9,
+      "end": 16.1,
+      "text": "e"
+    },
+    {
+      "start": 16.1,
+      "end": 16.28,
+      "text": "o"
+    },
+    {
+      "start": 16.28,
+      "end": 16.74,
+      "text": "texto"
+    },
+    {
+      "start": 16.74,
+      "end": 17.56,
+      "text": "resultante"
+    },
+    {
+      "start": 17.56,
+      "end": 17.9,
+      "text": "disso,"
+    },
+    {
+      "start": 17.96,
+      "end": 18.04,
+      "text": "a"
+    },
+    {
+      "start": 18.04,
+      "end": 18.12,
+      "text": "gente"
+    },
+    {
+      "start": 18.12,
+      "end": 18.26,
+      "text": "tem"
+    },
+    {
+      "start": 18.26,
+      "end": 18.4,
+      "text": "que"
+    },
+    {
+      "start": 18.4,
+      "end": 18.6,
+      "text": "passar"
+    },
+    {
+      "start": 18.6,
+      "end": 18.8,
+      "text": "para"
+    },
+    {
+      "start": 18.8,
+      "end": 18.9,
+      "text": "o"
+    },
+    {
+      "start": 18.9,
+      "end": 19.22,
+      "text": "produtor."
+    },
+    {
+      "start": 20.36,
+      "end": 20.64,
+      "text": "Isso"
+    },
+    {
+      "start": 20.64,
+      "end": 20.84,
+      "text": "já"
+    },
+    {
+      "start": 20.84,
+      "end": 21.22,
+      "text": "existe?"
+    },
+    {
+      "start": 21.3,
+      "end": 21.4,
+      "text": "Isso"
+    },
+    {
+      "start": 21.4,
+      "end": 21.58,
+      "text": "já"
+    },
+    {
+      "start": 21.58,
+      "end": 21.7,
+      "text": "está"
+    },
+    {
+      "start": 21.7,
+      "end": 22.18,
+      "text": "pronto?"
+    },
+    {
+      "start": 23.74,
+      "end": 24.16,
+      "text": "Aí"
+    },
+    {
+      "start": 24.16,
+      "end": 24.36,
+      "text": "talvez"
+    },
+    {
+      "start": 24.36,
+      "end": 24.5,
+      "text": "não"
+    },
+    {
+      "start": 24.5,
+      "end": 24.68,
+      "text": "vai"
+    },
+    {
+      "start": 24.68,
+      "end": 24.8,
+      "text": "um"
+    },
+    {
+      "start": 24.8,
+      "end": 24.98,
+      "text": "pouco"
+    },
+    {
+      "start": 24.98,
+      "end": 25.18,
+      "text": "da"
+    },
+    {
+      "start": 25.18,
+      "end": 26.24,
+      "text": "dúvida"
+    },
+    {
+      "start": 26.24,
+      "end": 26.44,
+      "text": "que"
+    },
+    {
+      "start": 26.44,
+      "end": 26.56,
+      "text": "o"
+    },
+    {
+      "start": 26.56,
+      "end": 26.78,
+      "text": "Bruno"
+    },
+    {
+      "start": 26.78,
+      "end": 27.3,
+      "text": "trouxe."
+    },
+    {
+      "start": 30.44,
+      "end": 30.86,
+      "text": "A"
+    },
+    {
+      "start": 30.86,
+      "end": 31.06,
+      "text": "gente"
+    },
+    {
+      "start": 31.06,
+      "end": 31.24,
+      "text": "vai"
+    },
+    {
+      "start": 31.24,
+      "end": 31.58,
+      "text": "usar"
+    },
+    {
+      "start": 31.58,
+      "end": 32.08,
+      "text": "todo"
+    },
+    {
+      "start": 32.08,
+      "end": 32.32,
+      "text": "o"
+    },
+    {
+      "start": 32.32,
+      "end": 32.76,
+      "text": "mecanismo"
+    },
+    {
+      "start": 32.76,
+      "end": 32.9,
+      "text": "que"
+    },
+    {
+      "start": 32.9,
+      "end": 32.98,
+      "text": "o"
+    },
+    {
+      "start": 32.98,
+      "end": 33.24,
+      "text": "tutor"
+    },
+    {
+      "start": 33.24,
+      "end": 33.46,
+      "text": "já"
+    },
+    {
+      "start": 33.46,
+      "end": 33.84,
+      "text": "tem,"
+    },
+    {
+      "start": 35.12,
+      "end": 35.2,
+      "text": "que"
+    },
+    {
+      "start": 35.2,
+      "end": 35.58,
+      "text": "é"
+    },
+    {
+      "start": 35.58,
+      "end": 35.74,
+      "text": "essa"
+    },
+    {
+      "start": 35.74,
+      "end": 36.02,
+      "text": "tela"
+    },
+    {
+      "start": 36.02,
+      "end": 36.12,
+      "text": "que"
+    },
+    {
+      "start": 36.12,
+      "end": 36.2,
+      "text": "eu"
+    },
+    {
+      "start": 36.2,
+      "end": 36.36,
+      "text": "estava"
+    },
+    {
+      "start": 36.36,
+      "end": 37.56,
+      "text": "mostrando"
+    },
+    {
+      "start": 37.56,
+      "end": 37.74,
+      "text": "ali."
+    }
+  ],
+  "paragraphs": [
+    {
+      "start": 0,
+      "end": 21.22,
+      "text": "Nessa primeira etapa, a gente manda para o produtor, o produtor vai processar e responder. Essa resposta a gente vai converter para áudio para poder ser reproduzida no front -end. Então, essa primeira parte que a gente está fazendo, a conversão e o texto resultante disso, a gente tem que passar para o produtor. Isso já existe?"
+    },
+    {
+      "start": 21.3,
+      "end": 37.74,
+      "text": "Isso já está pronto? Aí talvez não vai um pouco da dúvida que o Bruno trouxe. A gente vai usar todo o mecanismo que o tutor já tem, que é essa tela que eu estava mostrando ali."
+    }
+  ]
+}
