@@ -1,0 +1,572 @@
+{
+  "language": "pt",
+  "words": [
+    {
+      "start": 0.72,
+      "end": 1.24,
+      "text": "Minha"
+    },
+    {
+      "start": 1.24,
+      "end": 1.42,
+      "text": "terra"
+    },
+    {
+      "start": 1.42,
+      "end": 1.58,
+      "text": "tem"
+    },
+    {
+      "start": 1.58,
+      "end": 2,
+      "text": "palmeiras"
+    },
+    {
+      "start": 2,
+      "end": 2.16,
+      "text": "onde"
+    },
+    {
+      "start": 2.16,
+      "end": 2.42,
+      "text": "canto"
+    },
+    {
+      "start": 2.42,
+      "end": 2.8,
+      "text": "sabiá,"
+    },
+    {
+      "start": 2.88,
+      "end": 3,
+      "text": "as"
+    },
+    {
+      "start": 3,
+      "end": 3.22,
+      "text": "aves"
+    },
+    {
+      "start": 3.22,
+      "end": 3.34,
+      "text": "que"
+    },
+    {
+      "start": 3.34,
+      "end": 3.54,
+      "text": "aqui"
+    },
+    {
+      "start": 3.54,
+      "end": 3.82,
+      "text": "gorgiam"
+    },
+    {
+      "start": 3.82,
+      "end": 4,
+      "text": "não"
+    },
+    {
+      "start": 4,
+      "end": 4.38,
+      "text": "gorgiam"
+    },
+    {
+      "start": 4.38,
+      "end": 4.6,
+      "text": "como"
+    },
+    {
+      "start": 4.6,
+      "end": 4.72,
+      "text": "lá."
+    },
+    {
+      "start": 4.84,
+      "end": 5.06,
+      "text": "Nosso"
+    },
+    {
+      "start": 5.06,
+      "end": 5.26,
+      "text": "céu"
+    },
+    {
+      "start": 5.26,
+      "end": 5.4,
+      "text": "tem"
+    },
+    {
+      "start": 5.4,
+      "end": 5.58,
+      "text": "mais"
+    },
+    {
+      "start": 5.58,
+      "end": 6.02,
+      "text": "estrelas,"
+    },
+    {
+      "start": 6.1,
+      "end": 6.32,
+      "text": "nossas"
+    },
+    {
+      "start": 6.32,
+      "end": 6.76,
+      "text": "várzeas"
+    },
+    {
+      "start": 6.76,
+      "end": 6.9,
+      "text": "têm"
+    },
+    {
+      "start": 6.9,
+      "end": 7.08,
+      "text": "mais"
+    },
+    {
+      "start": 7.08,
+      "end": 7.4,
+      "text": "flores,"
+    },
+    {
+      "start": 7.52,
+      "end": 7.78,
+      "text": "nossos"
+    },
+    {
+      "start": 7.78,
+      "end": 8.2,
+      "text": "bosques"
+    },
+    {
+      "start": 8.2,
+      "end": 8.4,
+      "text": "têm"
+    },
+    {
+      "start": 8.4,
+      "end": 8.62,
+      "text": "mais"
+    },
+    {
+      "start": 8.62,
+      "end": 8.88,
+      "text": "vida,"
+    },
+    {
+      "start": 8.96,
+      "end": 9.14,
+      "text": "nossas"
+    },
+    {
+      "start": 9.14,
+      "end": 9.5,
+      "text": "vidas"
+    },
+    {
+      "start": 9.5,
+      "end": 9.72,
+      "text": "mais"
+    },
+    {
+      "start": 9.72,
+      "end": 10.16,
+      "text": "amores."
+    },
+    {
+      "start": 10.7,
+      "end": 10.84,
+      "text": "Em"
+    },
+    {
+      "start": 10.84,
+      "end": 11.24,
+      "text": "cismar"
+    },
+    {
+      "start": 11.24,
+      "end": 11.52,
+      "text": "sozinho"
+    },
+    {
+      "start": 11.52,
+      "end": 11.68,
+      "text": "à"
+    },
+    {
+      "start": 11.68,
+      "end": 11.88,
+      "text": "noite,"
+    },
+    {
+      "start": 11.98,
+      "end": 12.12,
+      "text": "mais"
+    },
+    {
+      "start": 12.12,
+      "end": 12.54,
+      "text": "prazer"
+    },
+    {
+      "start": 12.54,
+      "end": 12.62,
+      "text": "eu"
+    },
+    {
+      "start": 12.62,
+      "end": 13,
+      "text": "encontro"
+    },
+    {
+      "start": 13,
+      "end": 13.18,
+      "text": "lá."
+    },
+    {
+      "start": 13.52,
+      "end": 13.76,
+      "text": "Minha"
+    },
+    {
+      "start": 13.76,
+      "end": 13.98,
+      "text": "terra"
+    },
+    {
+      "start": 13.98,
+      "end": 14.14,
+      "text": "tem"
+    },
+    {
+      "start": 14.14,
+      "end": 14.6,
+      "text": "palmeiras"
+    },
+    {
+      "start": 14.6,
+      "end": 14.82,
+      "text": "onde"
+    },
+    {
+      "start": 14.82,
+      "end": 15.16,
+      "text": "canto"
+    },
+    {
+      "start": 15.16,
+      "end": 15.62,
+      "text": "sabiá."
+    },
+    {
+      "start": 15.92,
+      "end": 16.14,
+      "text": "Minha"
+    },
+    {
+      "start": 16.14,
+      "end": 16.36,
+      "text": "terra"
+    },
+    {
+      "start": 16.36,
+      "end": 16.52,
+      "text": "tem"
+    },
+    {
+      "start": 16.52,
+      "end": 16.98,
+      "text": "primórios"
+    },
+    {
+      "start": 16.98,
+      "end": 17.22,
+      "text": "que"
+    },
+    {
+      "start": 17.22,
+      "end": 17.62,
+      "text": "tais"
+    },
+    {
+      "start": 17.62,
+      "end": 17.74,
+      "text": "não"
+    },
+    {
+      "start": 17.74,
+      "end": 18.16,
+      "text": "encontro"
+    },
+    {
+      "start": 18.16,
+      "end": 18.3,
+      "text": "eu"
+    },
+    {
+      "start": 18.3,
+      "end": 18.52,
+      "text": "cá."
+    },
+    {
+      "start": 18.84,
+      "end": 19,
+      "text": "Em"
+    },
+    {
+      "start": 19,
+      "end": 19.5,
+      "text": "cismar"
+    },
+    {
+      "start": 19.5,
+      "end": 19.86,
+      "text": "sozinho"
+    },
+    {
+      "start": 19.86,
+      "end": 20.02,
+      "text": "à"
+    },
+    {
+      "start": 20.02,
+      "end": 20.26,
+      "text": "noite,"
+    },
+    {
+      "start": 20.4,
+      "end": 20.52,
+      "text": "mais"
+    },
+    {
+      "start": 20.52,
+      "end": 20.9,
+      "text": "prazer"
+    },
+    {
+      "start": 20.9,
+      "end": 21.06,
+      "text": "eu"
+    },
+    {
+      "start": 21.06,
+      "end": 21.4,
+      "text": "encontro"
+    },
+    {
+      "start": 21.4,
+      "end": 21.62,
+      "text": "lá."
+    },
+    {
+      "start": 22,
+      "end": 22.22,
+      "text": "Minha"
+    },
+    {
+      "start": 22.22,
+      "end": 22.44,
+      "text": "terra"
+    },
+    {
+      "start": 22.44,
+      "end": 22.62,
+      "text": "tem"
+    },
+    {
+      "start": 22.62,
+      "end": 23.12,
+      "text": "palmeiras"
+    },
+    {
+      "start": 23.12,
+      "end": 23.34,
+      "text": "onde"
+    },
+    {
+      "start": 23.34,
+      "end": 23.68,
+      "text": "canto"
+    },
+    {
+      "start": 23.68,
+      "end": 24.18,
+      "text": "sabiá."
+    },
+    {
+      "start": 24.46,
+      "end": 24.66,
+      "text": "Não"
+    },
+    {
+      "start": 24.66,
+      "end": 25.06,
+      "text": "permita"
+    },
+    {
+      "start": 25.06,
+      "end": 25.26,
+      "text": "Deus"
+    },
+    {
+      "start": 25.26,
+      "end": 25.38,
+      "text": "que"
+    },
+    {
+      "start": 25.38,
+      "end": 25.52,
+      "text": "eu"
+    },
+    {
+      "start": 25.52,
+      "end": 25.74,
+      "text": "morra"
+    },
+    {
+      "start": 25.74,
+      "end": 25.92,
+      "text": "sem"
+    },
+    {
+      "start": 25.92,
+      "end": 26.04,
+      "text": "que"
+    },
+    {
+      "start": 26.04,
+      "end": 26.18,
+      "text": "eu"
+    },
+    {
+      "start": 26.18,
+      "end": 26.4,
+      "text": "volte"
+    },
+    {
+      "start": 26.4,
+      "end": 26.64,
+      "text": "para"
+    },
+    {
+      "start": 26.64,
+      "end": 26.8,
+      "text": "lá."
+    },
+    {
+      "start": 26.8,
+      "end": 27.34,
+      "text": "Sem"
+    },
+    {
+      "start": 27.34,
+      "end": 27.48,
+      "text": "que"
+    },
+    {
+      "start": 27.48,
+      "end": 28.04,
+      "text": "desfrute"
+    },
+    {
+      "start": 28.04,
+      "end": 28.22,
+      "text": "os"
+    },
+    {
+      "start": 28.22,
+      "end": 28.76,
+      "text": "primórios"
+    },
+    {
+      "start": 28.76,
+      "end": 28.92,
+      "text": "que"
+    },
+    {
+      "start": 28.92,
+      "end": 29.06,
+      "text": "não"
+    },
+    {
+      "start": 29.06,
+      "end": 29.5,
+      "text": "encontro"
+    },
+    {
+      "start": 29.5,
+      "end": 29.76,
+      "text": "por"
+    },
+    {
+      "start": 29.76,
+      "end": 29.92,
+      "text": "cá,"
+    },
+    {
+      "start": 30.38,
+      "end": 30.56,
+      "text": "sem"
+    },
+    {
+      "start": 30.56,
+      "end": 30.72,
+      "text": "que"
+    },
+    {
+      "start": 30.72,
+      "end": 30.9,
+      "text": "ainda"
+    },
+    {
+      "start": 30.9,
+      "end": 31.32,
+      "text": "vista"
+    },
+    {
+      "start": 31.32,
+      "end": 31.54,
+      "text": "as"
+    },
+    {
+      "start": 31.54,
+      "end": 32.06,
+      "text": "palmeiras"
+    },
+    {
+      "start": 32.06,
+      "end": 32.3,
+      "text": "onde"
+    },
+    {
+      "start": 32.3,
+      "end": 32.7,
+      "text": "canto"
+    },
+    {
+      "start": 32.7,
+      "end": 33.16,
+      "text": "sabiá."
+    }
+  ],
+  "paragraphs": [
+    {
+      "start": 0.72,
+      "end": 15.62,
+      "text": "Minha terra tem palmeiras onde canto sabiá, as aves que aqui gorgiam não gorgiam como lá. Nosso céu tem mais estrelas, nossas várzeas têm mais flores, nossos bosques têm mais vida, nossas vidas mais amores. Em cismar sozinho à noite, mais prazer eu encontro lá. Minha terra tem palmeiras onde canto sabiá."
+    },
+    {
+      "start": 15.92,
+      "end": 26.8,
+      "text": "Minha terra tem primórios que tais não encontro eu cá. Em cismar sozinho à noite, mais prazer eu encontro lá. Minha terra tem palmeiras onde canto sabiá. Não permita Deus que eu morra sem que eu volte para lá."
+    },
+    {
+      "start": 26.8,
+      "end": 33.16,
+      "text": "Sem que desfrute os primórios que não encontro por cá, sem que ainda vista as palmeiras onde canto sabiá."
+    }
+  ]
+}
